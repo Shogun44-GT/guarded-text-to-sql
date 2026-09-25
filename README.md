@@ -1,6 +1,8 @@
 **Demo en ligne :** https://assistant-transactions-sql-ga5nse76ycdlrwbj6cqcbn.streamlit.app/
 \# Assistant transactions
 
+> A guarded text-to-SQL assistant that turns natural-language questions into transparent, read-only analytics queries.
+
 
 
 Poser une question en francais sur une base de transactions et obtenir la reponse,
